@@ -21,12 +21,6 @@
   United States, Panama, France, Turkey, and many more to come.
 </p>
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/charles-massey-496b08177">LinkedIn</a>
-  |
-  <a href="mailto:charles@izzi.fr">charles@izzi.fr</a>
-</p>
-
 ---
 
 ## About
@@ -43,19 +37,6 @@ and high-impact approach from concept to launch.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ChuckMassey&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=ChuckMassey&theme=transparent&hide_border=true"
-    alt="GitHub streak stats"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ChuckMassey&bg_color=00000000&color=0f766e&line=0f766e&point=f59e0b&area=true&hide_border=true"
     alt="GitHub contribution graph"
     width="100%"
@@ -66,7 +47,7 @@ and high-impact approach from concept to launch.
 
 Want to learn more about my work?
 
-- LinkedIn: [www.linkedin.com/in/charles-massey-496b08177](http://www.linkedin.com/in/charles-massey-496b08177)
-- Contact: [charles@izzi.fr](mailto:charles@izzi.fr)
+- LinkedIn: [LinkedIn](http://www.linkedin.com/in/charles-massey-496b08177)
+- Contact: charles@izzi.fr
 
 <img src="./readme/bottom.svg" alt="Footer image">
