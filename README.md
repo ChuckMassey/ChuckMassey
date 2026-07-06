@@ -18,11 +18,16 @@
 
 <p align="center">
   Helping businesses build innovative technology solutions across Canada, the
-  United States, Panama, France, Turkey, and many more to come.
+  United States, Panama, France, Turkey, the United Kingdom, and many more to come.
 </p>
 
 <p align="center">
-  🇨🇦 🇺🇸 🇵🇦 🇫🇷 🇹🇷
+  <img src="./readme/canada.png" alt="Canada" height="24" />
+  <img src="./readme/usa.png" alt="United States" height="24" />
+  <img src="./readme/panama.png" alt="Panama" height="24" />
+  <img src="./readme/france.png" alt="France" height="24" />
+  <img src="./readme/turc.png" alt="Turkey" height="24" />
+  <img src="./readme/uk.png" alt="United Kingdom" height="24" />
 </p>
 
 ---
