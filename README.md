@@ -21,6 +21,10 @@
   United States, Panama, France, Turkey, and many more to come.
 </p>
 
+<p align="center">
+  🇨🇦 🇺🇸 🇵🇦 🇫🇷 🇹🇷
+</p>
+
 ---
 
 ## About
