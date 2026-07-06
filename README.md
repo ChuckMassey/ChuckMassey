@@ -3,7 +3,7 @@
 <h1 align="center">Charles Massey</h1>
 
 <p align="center">
-  <strong>Head of Engineering at iZZi web</strong>
+  <strong>Software Engineer &amp; Web3 Builder</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   Helping businesses build innovative technology solutions across Canada, the
-  United States, Panama, France, Turkey, and beyond.
+  United States, Panama, France, Turkey, and many more to come.
 </p>
 
 <p align="center">
@@ -38,6 +38,29 @@ well-crafted software solutions.
 Whether the goal is building a product from the ground up, improving an existing
 platform, or defining the right technical direction, I aim to deliver a practical
 and high-impact approach from concept to launch.
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ChuckMassey&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="GitHub stats"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ChuckMassey&theme=transparent&hide_border=true"
+    alt="GitHub streak stats"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChuckMassey&bg_color=00000000&color=0f766e&line=0f766e&point=f59e0b&area=true&hide_border=true"
+    alt="GitHub contribution graph"
+    width="100%"
+  />
+</p>
 
 ## Connect
 
