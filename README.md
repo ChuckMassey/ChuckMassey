@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <code>ChuckMassey</code>
+  <code>@ChuckMassey</code>
 </p>
 
 <p align="center">
