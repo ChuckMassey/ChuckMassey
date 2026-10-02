@@ -46,7 +46,7 @@ and high-impact approach from concept to launch.
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=ChuckMassey&theme=tokyonight&border_radius=21&hide=stars%2Cfollowers"
+    src="https://ghstats.dev/api/card?username=ChuckMassey&theme=dracula&border_radius=21&hide=stars%2Cfollowers"
     alt="GitHub Stats Card"
     width="100%"
   />
