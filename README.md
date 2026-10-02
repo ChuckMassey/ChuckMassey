@@ -46,8 +46,8 @@ and high-impact approach from concept to launch.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ChuckMassey&bg_color=00000000&color=0f766e&line=0f766e&point=f59e0b&area=true&hide_border=true"
-    alt="GitHub contribution graph"
+    src="https://ghstats.dev/api/card?username=ChuckMassey&theme=tokyonight&border_radius=21&hide=stars%2Cfollowers"
+    alt="GitHub Stats Card"
     width="100%"
   />
 </p>
