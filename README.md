@@ -46,7 +46,15 @@ and high-impact approach from concept to launch.
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=ChuckMassey&theme=dracula&border_radius=21&hide=stars%2Cfollowers"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ChuckMassey&theme=shades-of-purple&hide_border=false"
+    alt="GitHub Stats Card"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuckMassey&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact"
     alt="GitHub Stats Card"
     width="100%"
   />
